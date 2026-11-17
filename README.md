@@ -240,22 +240,22 @@ The dashboard reports, for the selected stores, days and hours:
 ### **Overall Sales Trend**
 *Daily trend, weekly aggregation & store-level comparison*
 
-![SalesTrend](coffee-snapshots/1.OverallSalesTrend.png)
+![SalesTrend](snapshots/1.OverallSalesTrend.png)
 
 ### **Day-of-Week Performance**
 *Average by day of week & weekday vs weekend*
 
-![DayOfWeek](coffee-snapshots/2.DayOfWeekPerformance.png)
+![DayOfWeek](snapshots/2.DayOfWeekPerformance.png)
 
 ### **Hourly Demand Heatmaps**
 *Per-store heatmaps & hourly demand curves*
 
-![Heatmaps](coffee-snapshots/3.HourlyDemandHeatmaps.png)
+![Heatmaps](snapshots/3.HourlyDemandHeatmaps.png)
 
 ### **Location Comparison**
 *Store panels & peak-hour alignment*
 
-![Location](coffee-snapshots/4.LocationComparison.png)
+![Location](snapshots/4.LocationComparison.png)
 
 </div>
 
